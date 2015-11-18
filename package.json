@@ -1,0 +1,20 @@
+{
+  "name": "gulp-sourcemap",
+  "version": "1.0.0",
+  "description": "Source map support for Gulp.js",
+  "repository": "jaywcjlove/gulp-sourcemap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "kenny wang",
+    "email": "wowohoo@qq.com",
+    "url": "http://jslite.io"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "through2": "^2.0.0",
+    "uglify-js": "^2.6.1"
+  }
+}
