@@ -1,6 +1,6 @@
 {
   "name": "gulp-sourcemap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Source map support for Gulp.js",
   "repository": "jaywcjlove/gulp-sourcemap",
   "main": "index.js",
