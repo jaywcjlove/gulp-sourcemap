@@ -1,5 +1,12 @@
 # gulp-sourcemap
 
+
+> **Warning**  
+> 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨   
+> The gulp-sourcemap plugin can be removed.
+> Gulp already has built-in support for source maps.
+> https://gulpjs.com/docs/en/api/src/#sourcemaps
+
 Source map support for `Gulp.js`.  
 Write inline source maps.  
 Inline source maps are embedded in the source file.  
